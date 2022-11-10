@@ -1,7 +1,5 @@
 import process from 'node:process'
 
-// console.log(process.argv)
-
 let arg = null
 let cost = null
 let payment = null
